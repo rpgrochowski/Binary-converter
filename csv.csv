@@ -1,0 +1,7 @@
+function,The concept of a function is one of the most important ones in mathematics. A common usage of functions in computer languages is to implement mathematical functions.,http://www.python-course.eu/python3_functions.php
+parameter,The interface between the environment, from which the function has been called, and the function, i.e. the function body, consists of special variables, which are called parameters.,http://www.python-course.eu/python3_passing_arguments.php
+variable, Variables are nothing but reserved memory locations to store values. It means that when you create a variable, you reserve some space in the memory, https://www.tutorialspoint.com/python3/python_variable_types.htm
+dictionary, To access dictionary elements you can use the familiar square brackets along with the key to obtain its value, https://www.tutorialspoint.com/python3/python_dictionary.htm
+tuple, A tuple is a sequence of immutable Python objects. Tuples are sequences just like lists. ,https://www.tutorialspoint.com/python/python_tuples.htm
+ASCII table, This discusses Python support for Unicode and explains various problems that people commonly encounter when trying to work with Unicode,https://docs.python.org/3/howto/unicode.html
+module, If you quit from the Python interpreter and enter it again the definitions you have made (functions and variables) are lost , https://docs.python.org/3/tutorial/modules.html 
